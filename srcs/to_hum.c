@@ -1,11 +1,11 @@
 /*
-** to_hum.c for  in /home/arnhol_m/rendu/synth/genealogie/srcs
+** to_hum.c in /home/nakholz/rendu/Github/genealogie/srcs
 ** 
-** Made by martin Arnholz
-** Login   <arnhol_m@epitech.net>
+** Made by Arnholz Martin
+** Login : arnhol_m
 ** 
 ** Started on  Sat Jul  4 18:39:54 2015 martin Arnholz
-** Last update Sat Jul  4 20:51:21 2015 martin Arnholz
+** Last update Wed May 25 11:56:11 2016 
 */
 
 #include <stdio.h>

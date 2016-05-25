@@ -1,11 +1,11 @@
 /*
-** my.h for  in /home/arnhol_m/rendu/synth/genealogie
+** my.h in /home/nakholz/rendu/Github/genealogie
 ** 
-** Made by martin Arnholz
-** Login   <arnhol_m@epitech.net>
+** Made by Arnholz Martin
+** Login : arnhol_m
 ** 
 ** Started on  Sat Jul  4 10:45:22 2015 martin Arnholz
-** Last update Sat Jul  4 23:04:48 2015 martin Arnholz
+** Last update Wed May 25 11:56:58 2016 
 */
 
 #ifndef MY_H_

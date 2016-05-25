@@ -1,11 +1,11 @@
 ##
-## Makefile for  in /home/arnhol_m/rendu/synth/automakefile
+## Makefile in /home/nakholz/rendu/Github/genealogie
 ## 
-## Made by martin Arnholz
-## Login   <arnhol_m@epitech.net>
+## Made by Arnholz Martin
+## Login : arnhol_m
 ## 
 ## Started on  Mon Jun 22 18:05:57 2015 martin Arnholz
-## Last update Sat Jul  4 19:05:04 2015 martin Arnholz
+## Last update Wed May 25 11:56:33 2016 
 ##
 
 CC	= gcc -g

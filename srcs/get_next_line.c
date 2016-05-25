@@ -1,11 +1,11 @@
 /*
-** get_next_line.c for  in /home/arnhol_m/rendu/synth/agenda/srcs
+** get_next_line.c in /home/nakholz/rendu/Github/genealogie/srcs
 ** 
-** Made by martin Arnholz
-** Login   <arnhol_m@epitech.net>
+** Made by Arnholz Martin
+** Login : arnhol_m
 ** 
 ** Started on  Mon Jun 29 13:44:52 2015 martin Arnholz
-** Last update Mon Jun 29 13:44:53 2015 martin Arnholz
+** Last update Wed May 25 11:54:53 2016 
 */
 
 #include <unistd.h>

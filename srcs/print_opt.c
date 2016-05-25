@@ -1,11 +1,11 @@
 /*
-** print_opt.c for  in /home/arnhol_m/rendu/synth/genealogie/srcs
+** print_opt.c in /home/nakholz/rendu/Github/genealogie/srcs
 ** 
-** Made by martin Arnholz
-** Login   <arnhol_m@epitech.net>
+** Made by Arnholz Martin
+** Login : arnhol_m
 ** 
 ** Started on  Thu Jul  2 21:14:36 2015 martin Arnholz
-** Last update Sat Jul  4 23:21:58 2015 martin Arnholz
+** Last update Wed May 25 11:55:33 2016 
 */
 
 #include <unistd.h>

@@ -1,11 +1,11 @@
 /*
-** strtok.c for  in /home/arnhol_m/rendu/synth/genealogie/srcs
+** strtok.c in /home/nakholz/rendu/Github/genealogie/srcs
 ** 
-** Made by martin Arnholz
-** Login   <arnhol_m@epitech.net>
+** Made by Arnholz Martin
+** Login : arnhol_m
 ** 
 ** Started on  Fri Jul  3 15:11:41 2015 martin Arnholz
-** Last update Fri Jul  3 16:00:49 2015 martin Arnholz
+** Last update Wed May 25 11:55:56 2016 
 */
 
 #include <stdlib.h>

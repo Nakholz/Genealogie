@@ -1,11 +1,11 @@
 /*
-** get_info.c for  in /home/arnhol_m/rendu/synth/genealogie/srcs
-**
-** Made by martin Arnholz
-** Login   <arnhol_m@epitech.net>
+** get_info.c in /home/nakholz/rendu/Github/genealogie/srcs
+** 
+** Made by Arnholz Martin
+** Login : arnhol_m
 **
 ** Started on  Sat Jul  4 10:36:35 2015 martin Arnholz
-** Last update Sat Jul  4 16:18:17 2015 martin Arnholz
+** Last update Wed May 25 11:54:41 2016 
 */
 
 #include <sys/types.h>

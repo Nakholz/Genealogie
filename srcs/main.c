@@ -1,11 +1,11 @@
 /*
-** main.c for  in /home/arnhol_m/rendu/synth/FASTAtools/srcs
-**
-** Made by martin Arnholz
-** Login   <arnhol_m@epitech.net>
+** main.c in /home/nakholz/rendu/Github/genealogie/srcs
+** 
+** Made by Arnholz Martin
+** Login : arnhol_m
 **
 ** Started on  Wed Jun 24 20:50:56 2015 martin Arnholz
-** Last update Sat Jul  4 23:17:33 2015 martin Arnholz
+** Last update Wed May 25 11:55:14 2016 
 */
 
 #include <sys/types.h>

@@ -1,11 +1,12 @@
 /*
-** list.c for  in /home/arnhol_m/rendu/synth/tmp
-**
-** Made by Martin Arnholz
-** Login   <arnhol_m@epitech.net>
+** list.c in /home/nakholz/rendu/Github/genealogie/srcs
+** 
+** Made by Arnholz Martin
+** Login : arnhol_m
+** 
 **
 ** Started on  Tue Jun 16 09:14:46 2015 Martin Arnholz
-** Last update Sat Jul  4 23:04:24 2015 martin Arnholz
+** Last update Wed May 25 11:55:04 2016 
 */
 
 #include <unistd.h>
